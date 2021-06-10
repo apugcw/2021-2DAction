@@ -1,0 +1,10 @@
+2021-2DActionのフォルダにpowershellで移動する．
+1. git add *
+
+2. git commit
+ここでコメントを追加する．
+
+3. git push
+
+ブラウザを立ち上げて upstream　のボタンを押す．
+contoribute ボタンを押してプルリクを追加する．
